@@ -1,6 +1,6 @@
 async function downloadImage(
     imageSrc,
-    nameOfDownload = 'Logo-arena-800.png',
+    nameOfDownload = 'segline-ss-inline.png',
   ) {
     const response = await fetch(imageSrc);
   
@@ -23,8 +23,8 @@ async function downloadImage(
   
   btn.addEventListener('click', () => {
     downloadImage(
-      'imgs/Logo-arena-800.png',
-      'Logo-arena-800.png',
+      'imgs/segline-ss-inline.png',
+      'segline-ss-inline.png',
     )
       .then(() => {
         console.log('The image has been downloaded');
