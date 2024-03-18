@@ -4669,7 +4669,7 @@ figcaption {
     width: 100%;
     height: 200px;
     max-width: 1192px;
-    background-color: #d6a12e;
+    background-color: #13ace4;
     justify-content: space-between;
     align-items: center;
     padding-left: 64px;
@@ -4761,7 +4761,7 @@ figcaption {
     max-width: 1197px;
     grid-column-gap: 8px;
     grid-row-gap: 8px;
-    background-color: #d6a12e;
+    background-color: #13ace4;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
@@ -4812,7 +4812,7 @@ figcaption {
 
     .cta-card {
         width: 100%;
-        background-image: url("https://assets-global.website-files.com/65ad3a791732875dfeeaafbd/65ad3a791732875dfeeab11b_cta-card-bg-dashflow-webflow-template.svg"), linear-gradient(#ffc83d, #906a16);
+        background-image: url("https://assets-global.website-files.com/65ad3a791732875dfeeaafbd/65ad3a791732875dfeeab11b_cta-card-bg-dashflow-webflow-template.svg"), linear-gradient(#3d7fff, #4b5dff);
         background-position: 50%, 0 0;
         background-size: auto, auto;
         justify-content: space-between;
@@ -5412,7 +5412,7 @@ figcaption {
 
     .cta-card {
         width: 100%;
-        background-image: url("https://assets-global.website-files.com/65ad3a791732875dfeeaafbd/65ad3a791732875dfeeab11b_cta-card-bg-dashflow-webflow-template.svg"), linear-gradient(#f5cc17, #c9a41e);
+        background-image: url("https://assets-global.website-files.com/65ad3a791732875dfeeaafbd/65ad3a791732875dfeeab11b_cta-card-bg-dashflow-webflow-template.svg"), linear-gradient(#3d7fff, #4b5dff);
         background-position: 50%, 0 0;
         background-size: auto, auto;
         border-radius: 12px;
