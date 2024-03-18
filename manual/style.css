@@ -2244,7 +2244,7 @@ textarea.w-select {
     --system--blue-200: #8fc3ff;
     --system--green-200: #7fdca4;
     --system--orange-200: #ffd19b;
-    --secondary--color-5: #fdb52a;
+    --secondary--color-5: #3cc3f4   ;
     --secondary--color-1: #c7d6ff;
     --secondary--color-4: #94acf2;
     --system--blue-400: #086cd9;
@@ -4452,7 +4452,7 @@ figcaption {
 .cta-card {
     width: 100%;
     grid-column-gap: 40px;
-    background-image: url("https://assets-global.website-files.com/65ad3a791732875dfeeaafbd/65ad3a791732875dfeeab11b_cta-card-bg-dashflow-webflow-template.svg"), repeating-linear-gradient(to bottom, var(--secondary--color-5), #a88900);
+    background-image: url("https://assets-global.website-files.com/65ad3a791732875dfeeaafbd/65ad3a791732875dfeeab11b_cta-card-bg-dashflow-webflow-template.svg"), repeating-linear-gradient(to bottom, var(--secondary--color-5), #093248);
     background-position: 50%, 0 0;
     background-size: auto, auto;
     border: 1px solid #3961d9;
