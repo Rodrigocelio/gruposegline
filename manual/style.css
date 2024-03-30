@@ -4449,6 +4449,10 @@ figcaption {
     transform: scale3d(1.01, 1.01, 1.01);
 }
 
+.gray-element {
+    background-color: var(--accent--primary-1);
+}
+
 .cta-card {
     width: 100%;
     grid-column-gap: 40px;
