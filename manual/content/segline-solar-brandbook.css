@@ -3866,6 +3866,7 @@ figcaption {
 
 .pd-26px---24px---40px {
   padding: 26px 24px 40px;
+  background-color: #f7f8fc;
 }
 
 .border-radius-12px {
@@ -4537,7 +4538,7 @@ figcaption {
   justify-content: center;
   align-items: center;
   padding-top: 16px;
-  padding-bottom: 16px;
+  padding-bottom: 40px;
 }
 
 .frame-6 {
